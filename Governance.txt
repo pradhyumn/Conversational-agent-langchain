@@ -1,0 +1,11 @@
+Extract all sections and bullet points related to governance requirements from the RFP text. 
+
+What are the key governance responsibilities and expectations outlined in the RFP? 
+
+Identify and summarize the sanctions or penalties that are outlined in the RFP in case of non-compliance. 
+
+What are the sanctions or penalties mentioned in the RFP? 
+
+Summarize the bonding or insurance requirements outlined in the RFP. 
+
+What are the bonding requirements mentioned in the RFP? Are there any specific conditions tied to these requirements? 
