@@ -16,6 +16,10 @@ streamlit run app.py
 
 This will run a streamlit application hosted locally and can be run on your browser. In the browser window, upload your PDF, followed by the appropriate prompts for the queries you want the LLM model to answer from the PDF. Some example prompts for the Governance-related queries are present in the ``` Governance.txt``` file.
 
+### Lambda Function
+
+The ```lambda_function.py``` file contains the code for deploying the application to AWS Lambda instead of hosting it locally. The ```test.py ``` file contains the test cases for automatically testing the pdf based on prompts on the deployed model using a post call using Postman.
+
 ### Contributing
 
 This repository is for educational purposes only.
